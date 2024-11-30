@@ -8,9 +8,6 @@
 - Close tabs directly from the extension popup.
 - Simple and minimal design with a calming, Sakura-inspired theme.
 
-## Screenshots
-
-![SakuraFlow Screenshot](screenshot.png) 
 ## Installation
 
 To install the Tab Manager extension, follow these steps:
